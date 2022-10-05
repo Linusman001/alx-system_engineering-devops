@@ -1,0 +1,25 @@
+total 96
+-rwxr--r-- 1 root root   17 May 25 12:40 0-current_working_directory
+-rwxr--r-- 1 root root   29 May 25 16:39 100-lets_move
+-rwxr--r-- 1 root root   19 May 25 16:43 101-clean_emacs
+-rwxr--r-- 1 root root   59 May 25 16:53 102-tree
+-rwxr--r-- 1 root root   20 May 25 16:59 103-commas
+-rwxr--r-- 1 root root   17 May 25 14:52 10-back
+-rwxr--r-- 1 root root   30 May 25 15:59 11-lists
+-rwxr--r-- 1 root root   31 May 25 15:32 12-file_type
+-rwxr--r-- 1 root root   33 May 25 15:44 13-symbolic_link
+-rwxr--r-- 1 root root   26 May 25 15:54 14-copy_html
+-rwxr--r-- 1 root root   15 May 25 13:00 1-listit
+-rwxr--r-- 1 root root   15 May 25 14:06 2-bring_me_home
+-rwxr--r-- 1 root root   18 May 25 14:14 3-listfiles
+-rwxr--r-- 1 root root   20 May 25 14:24 4-listmorefiles
+-rwxr--r-- 1 root root   23 May 25 14:29 5-listfilesdigitonly
+-rwxr--r-- 1 root root   42 May 25 14:35 6-firstdirectory
+-rwxr--r-- 1 root root   56 May 25 14:41 7-movethatfile
+-rwxr--r-- 1 root root   45 May 25 14:45 8-firstdelete
+-rwxr--r-- 1 root root   42 May 25 14:49 9-firstdirdeletion
+-rw-r--r-- 1 root root    1 May 25 15:53 Copy
+-rw-r--r-- 1 root root 5369 May 25 12:33 md
+-rw-r--r-- 1 root root   17 May 25 12:34 README.md
+-rw-r--r-- 1 root root  688 May 25 17:26 school.mgc
+-rw-r--r-- 1 root root    0 May 29 14:19 testing
